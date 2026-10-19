@@ -16,7 +16,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - Tools: 63
 - Free tools: 46
 - Founder-tested picks: 22
-- Last sync: 2026-10-19
+- Last sync: 2026-02-27
 
 ## Contents
 - [AI Video](#ai-video) (7)
